@@ -17,6 +17,7 @@ title: Conference List for Future Reference
       <th>Notification</th>
       <th>Conference</th>
       <th>Submission Platform</th>
+      <th>CS Rankings</th>
     </tr>
   </thead>
   <!--Table head-->
