@@ -228,7 +228,7 @@ title: Conference List for Future Reference
       <td>October</td>
       <td>January</td>
       <td>March</td>
-      <td>Microsoft CMT</td>
+      <td></td>
     </tr>    
     <tr>
       <th scope="row">27</th>
