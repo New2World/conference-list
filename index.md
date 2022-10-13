@@ -224,12 +224,20 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">26</th>
+      <td>AISTATS</td>
+      <td>October</td>
+      <td>January</td>
+      <td>March</td>
+      <td>Microsoft CMT</td>
+    </tr>    
+    <tr>
+      <th scope="row">27</th>
       <td>AAMAS</td>
       <td>November</td>
       <td>January</td>
       <td>May</td>
       <td>ConfMaster</td>
-    </tr>
+    </tr>    
   </tbody>
   <!--Table body-->
 </table>
