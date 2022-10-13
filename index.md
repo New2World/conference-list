@@ -30,6 +30,7 @@ title: Conference List for Future Reference
       <td>March</td>
       <td>July</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">2</th>
@@ -38,6 +39,7 @@ title: Conference List for Future Reference
       <td>March</td>
       <td>June</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">3</th>
@@ -46,6 +48,7 @@ title: Conference List for Future Reference
       <td>April</td>
       <td>October</td>
       <td>PCS</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">4</th>
@@ -54,6 +57,7 @@ title: Conference List for Future Reference
       <td>April</td>
       <td>June</td>
       <td>Microsoft CMT</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">5</th>
@@ -62,6 +66,7 @@ title: Conference List for Future Reference
       <td>April</td>
       <td>August</td>
       <td>EasyChair</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">6</th>
@@ -70,6 +75,7 @@ title: Conference List for Future Reference
       <td>April</td>
       <td>June</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">7</th>
@@ -78,6 +84,7 @@ title: Conference List for Future Reference
       <td>May</td>
       <td>August</td>
       <td>ConfMaster</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">8</th>
@@ -86,6 +93,7 @@ title: Conference List for Future Reference
       <td>May</td>
       <td>July</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">9</th>
@@ -94,6 +102,7 @@ title: Conference List for Future Reference
       <td>June</td>
       <td>August</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -102,6 +111,7 @@ title: Conference List for Future Reference
       <td>July</td>
       <td>October</td>
       <td>PCS</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">11</th>
@@ -110,6 +120,7 @@ title: Conference List for Future Reference
       <td>July</td>
       <td>December</td>
       <td>Microsoft CMT</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">12</th>
@@ -118,6 +129,7 @@ title: Conference List for Future Reference
       <td>August</td>
       <td>November</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">13</th>
@@ -126,6 +138,7 @@ title: Conference List for Future Reference
       <td>July</td>
       <td>April</td>
       <td>Microsoft CMT</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">14</th>
@@ -134,6 +147,7 @@ title: Conference List for Future Reference
       <td>August</td>
       <td>November</td>
       <td>ICDM Link</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">15</th>
@@ -142,6 +156,7 @@ title: Conference List for Future Reference
       <td>October</td>
       <td>June</td>
       <td>Microsoft CMT</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">16</th>
@@ -150,6 +165,7 @@ title: Conference List for Future Reference
       <td>November</td>
       <td>April</td>
       <td>EDAS</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">17</th>
@@ -158,6 +174,7 @@ title: Conference List for Future Reference
       <td>September</td>
       <td>December</td>
       <td>Unknown</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">18</th>
@@ -166,6 +183,7 @@ title: Conference List for Future Reference
       <td>October</td>
       <td>Feburary</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">19</th>
@@ -174,6 +192,7 @@ title: Conference List for Future Reference
       <td>September</td>
       <td>November</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">20</th>
@@ -182,6 +201,7 @@ title: Conference List for Future Reference
       <td>November</td>
       <td>Feburary</td>
       <td>Microsoft CMT</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">21</th>
@@ -190,6 +210,7 @@ title: Conference List for Future Reference
       <td>November</td>
       <td>June</td>
       <td>EasyChair</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">22</th>
@@ -198,6 +219,7 @@ title: Conference List for Future Reference
       <td>January</td>
       <td>May</td>
       <td>EasyChair</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">23</th>
@@ -206,6 +228,7 @@ title: Conference List for Future Reference
       <td>December</td>
       <td>April</td>
       <td>Microsoft CMT</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">24</th>
@@ -214,6 +237,7 @@ title: Conference List for Future Reference
       <td>December</td>
       <td>October</td>
       <td>PCS</td>
+      <td> </td>
     </tr>
     <tr>
       <th scope="row">25</th>
@@ -222,6 +246,7 @@ title: Conference List for Future Reference
       <td>January</td>
       <td>June</td>
       <td>Microsoft CMT</td>
+      <td>YES</td>
     </tr>
     <tr>
       <th scope="row">26</th>
@@ -230,6 +255,7 @@ title: Conference List for Future Reference
       <td>January</td>
       <td>March</td>
       <td></td>
+      <td> </td>
     </tr>    
     <tr>
       <th scope="row">27</th>
@@ -238,6 +264,7 @@ title: Conference List for Future Reference
       <td>January</td>
       <td>May</td>
       <td>ConfMaster</td>
+      <td> </td>
     </tr>    
   </tbody>
   <!--Table body-->
