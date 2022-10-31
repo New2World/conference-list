@@ -7,7 +7,9 @@ This project is set fo maintaining a list of targeted conferences.
 [See the website for the Targeted Conference List](https://cdslabamotong.github.io/conference-list/).
 
 ## Contributor
-[Chen Ling](mailto:lingchen@udel.edu)   
+[Siqi Wang]
+
+[Chen Ling]
 
 [Guangmo(Amo) Tong](http://udel.edu/~amotong/)  
 
