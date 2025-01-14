@@ -36,7 +36,7 @@ title: Conference List for Future Reference
       <td>February</td>
       <td>Unknown</td>
       <td>Unknown</td>
-      <td>Unknown</td>
+      <td>PrecisionConference</td>
     </tr>
     <tr>
       <th scope="row">3</th>
@@ -92,7 +92,7 @@ title: Conference List for Future Reference
       <td>May</td>
       <td>Unknown</td>
       <td>Unknown</td>
-      <td>Unknown</td>
+      <td>PrecisionConference</td>
     </tr>
     <tr>
       <th scope="row">10</th>
@@ -180,7 +180,7 @@ title: Conference List for Future Reference
       <td>November</td>
       <td>Unknown</td>
       <td>Unknown</td>
-      <td>Unknown</td>
+      <td>PrecisionConference</td>
     </tr>
     <tr>
       <th scope="row">21</th>
