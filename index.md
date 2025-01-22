@@ -32,6 +32,14 @@ title: Conference List for Future Reference
     </tr>
     <tr>
       <th scope="row">2</th>
+      <td>CCS - R1</td>
+      <td>January</td>
+      <td>April</td>
+      <td>October</td>
+      <td>HotCRP</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
       <td>UbiComp - R1</td>
       <td>February</td>
       <td>Unknown</td>
@@ -39,7 +47,7 @@ title: Conference List for Future Reference
       <td>PrecisionConference</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row">4</th>
       <td>ICCCN</td>
       <td>February</td>
       <td>May</td>
@@ -47,7 +55,7 @@ title: Conference List for Future Reference
       <td>EasyChair</td>
     </tr>
     <tr>
-      <th scope="row">4</th>
+      <th scope="row">5</th>
       <td>SIGCOMM</td>
       <td>February</td>
       <td>May</td>
@@ -55,7 +63,7 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">5</th>
+      <th scope="row">6</th>
       <td>MobiCom - Winter</td>
       <td>March</td>
       <td>June</td>
@@ -63,7 +71,7 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">6</th>
+      <th scope="row">7</th>
       <td>WiSec - R2</td>
       <td>March</td>
       <td>April</td>
@@ -71,7 +79,7 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">7</th>
+      <th scope="row">8</th>
       <td>MobiHoc</td>
       <td>March</td>
       <td>July</td>
@@ -79,7 +87,15 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">8</th>
+      <th scope="row">9</th>
+      <td>S&P - R1</td>
+      <td>March</td>
+      <td>July</td>
+      <td>May (+1y)</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <th scope="row">10</th>
       <td>MASS</td>
       <td>April</td>
       <td>June</td>
@@ -87,7 +103,15 @@ title: Conference List for Future Reference
       <td>EDAS</td>
     </tr>
     <tr>
-      <th scope="row">9</th>
+      <th scope="row">11</th>
+      <td>CCS - R2</td>
+      <td>April</td>
+      <td>July</td>
+      <td>October</td>
+      <td>HotCRP</td>
+    </tr>
+    <tr>
+      <th scope="row">12</th>
       <td>UbiComp - R2</td>
       <td>May</td>
       <td>Unknown</td>
@@ -95,7 +119,7 @@ title: Conference List for Future Reference
       <td>PrecisionConference</td>
     </tr>
     <tr>
-      <th scope="row">10</th>
+      <th scope="row">13</th>
       <td>SECON</td>
       <td>May</td>
       <td>July</td>
@@ -103,7 +127,7 @@ title: Conference List for Future Reference
       <td>Unknown</td>
     </tr>
     <tr>
-      <th scope="row">11</th>
+      <th scope="row">14</th>
       <td>ICNP</td>
       <td>May</td>
       <td>July</td>
@@ -111,15 +135,15 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">12</th>
+      <th scope="row">15</th>
       <td>NSDI - Spring</td>
       <td>May</td>
       <td>July</td>
-      <td>April (+1)</td>
+      <td>April (+1y)</td>
       <td>Unknown</td>
     </tr>
     <tr>
-      <th scope="row">13</th>
+      <th scope="row">16</th>
       <td>CNS</td>
       <td>June</td>
       <td>August</td>
@@ -127,55 +151,63 @@ title: Conference List for Future Reference
       <td>EDAS</td>
     </tr>
     <tr>
-      <th scope="row">14</th>
+      <th scope="row">17</th>
       <td>INFOCOM</td>
       <td>July</td>
       <td>December</td>
-      <td>May (+1)</td>
+      <td>May (+1y)</td>
       <td>EDAS</td>
     </tr>
     <tr>
-      <th scope="row">15</th>
+      <th scope="row">18</th>
       <td>MobiCom - Summer</td>
       <td>August</td>
       <td>November</td>
-      <td>October (+1)</td>
+      <td>October (+1y)</td>
       <td>HotCRP</td>
-    </tr>
-    <tr>
-      <th scope="row">16</th>
-      <td>NSDI - Fall</td>
-      <td>September</td>
-      <td>December</td>
-      <td>April (+1)</td>
-      <td>Unknown</td>
-    </tr>
-    <tr>
-      <th scope="row">17</th>
-      <td>IEEE VR</td>
-      <td>September</td>
-      <td>January</td>
-      <td>March (+1)</td>
-      <td>PrecisionConference</td>
-    </tr>
-    <tr>
-      <th scope="row">18</th>
-      <td>PerCom</td>
-      <td>October</td>
-      <td>December</td>
-      <td>March (+1)</td>
-      <td>EasyChair</td>
     </tr>
     <tr>
       <th scope="row">19</th>
-      <td>IPSN</td>
+      <td>S&P - R2</td>
+      <td>August</td>
       <td>October</td>
-      <td>January (+1)</td>
-      <td>May (+1)</td>
-      <td>HotCRP</td>
+      <td>May (+1y)</td>
+      <td>Unknown</td>
     </tr>
     <tr>
       <th scope="row">20</th>
+      <td>NSDI - Fall</td>
+      <td>September</td>
+      <td>December</td>
+      <td>April (+1y)</td>
+      <td>Unknown</td>
+    </tr>
+    <tr>
+      <th scope="row">21</th>
+      <td>IEEE VR</td>
+      <td>September</td>
+      <td>January</td>
+      <td>March (+1y)</td>
+      <td>PrecisionConference</td>
+    </tr>
+    <tr>
+      <th scope="row">22</th>
+      <td>PerCom</td>
+      <td>October</td>
+      <td>December</td>
+      <td>March (+1y)</td>
+      <td>EasyChair</td>
+    </tr>
+    <tr>
+      <th scope="row">23</th>
+      <td>IPSN</td>
+      <td>October</td>
+      <td>January (+1y)</td>
+      <td>May (+1y)</td>
+      <td>HotCRP</td>
+    </tr>
+    <tr>
+      <th scope="row">24</th>
       <td>UbiComp - R3</td>
       <td>November</td>
       <td>Unknown</td>
@@ -183,28 +215,36 @@ title: Conference List for Future Reference
       <td>PrecisionConference</td>
     </tr>
     <tr>
-      <th scope="row">21</th>
+      <th scope="row">25</th>
       <td>SenSys</td>
       <td>November</td>
-      <td>January (+1)</td>
-      <td>May (+1)</td>
+      <td>January (+1y)</td>
+      <td>May (+1y)</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">22</th>
+      <th scope="row">26</th>
       <td>MobiSys</td>
       <td>November</td>
-      <td>March (+1)</td>
-      <td>June (+1)</td>
+      <td>March (+1y)</td>
+      <td>June (+1y)</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">23</th>
+      <th scope="row">27</th>
       <td>WiSec - R1</td>
       <td>November</td>
-      <td>January (+1)</td>
-      <td>June (+1)</td>
+      <td>January (+1y)</td>
+      <td>June (+1y)</td>
       <td>HotCRP</td>
+    </tr>
+    <tr>
+      <th scope="row">28</th>
+      <td>S&P - R3</td>
+      <td>December</td>
+      <td>March (+1y)</td>
+      <td>May (+1y)</td>
+      <td>Unknown</td>
     </tr>
   </tbody>
   <!--Table body-->
