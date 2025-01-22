@@ -11,7 +11,6 @@ title: Conference List for Future Reference
 <!--Table head-->
   <thead>
     <tr>
-      <th>#</th>
       <th>Name</th>
       <th>Submission</th>
       <th>Notification</th>
@@ -23,224 +22,196 @@ title: Conference List for Future Reference
   <!--Table body-->
   <tbody>
     <tr>
-      <th scope="row">1</th>
-      <td>ICDCS</td>
+      <th scope="row">ICDCS</th>
       <td>January</td>
       <td>March</td>
       <td>July</td>
       <td>EasyChair</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>CCS - R1</td>
+      <th scope="row">CCS - R1</th>
       <td>January</td>
       <td>April</td>
       <td>October</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
-      <td>UbiComp - R1</td>
+      <th scope="row">UbiComp - R1</th>
       <td>February</td>
       <td>Unknown</td>
       <td>Unknown</td>
       <td>PrecisionConference</td>
     </tr>
     <tr>
-      <th scope="row">4</th>
-      <td>ICCCN</td>
+      <th scope="row">ICCCN</th>
       <td>February</td>
       <td>May</td>
       <td>August</td>
       <td>EasyChair</td>
     </tr>
     <tr>
-      <th scope="row">5</th>
-      <td>SIGCOMM</td>
+      <th scope="row">SIGCOMM</th>
       <td>February</td>
       <td>May</td>
       <td>September</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">6</th>
-      <td>MobiCom - Winter</td>
+      <th scope="row">MobiCom - Winter</th>
       <td>March</td>
       <td>June</td>
       <td>October</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">7</th>
-      <td>WiSec - R2</td>
+      <th scope="row">WiSec - R2</th>
       <td>March</td>
       <td>April</td>
       <td>June</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">8</th>
-      <td>MobiHoc</td>
+      <th scope="row">MobiHoc</th>
       <td>March</td>
       <td>July</td>
       <td>August</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">9</th>
-      <td>S&P - R1</td>
+      <th scope="row">S&P - R1</th>
       <td>March</td>
       <td>July</td>
       <td>May</td>
       <td>Unknown</td>
     </tr>
     <tr>
-      <th scope="row">10</th>
-      <td>MASS</td>
+      <th scope="row">MASS</th>
       <td>April</td>
       <td>June</td>
       <td>September</td>
       <td>EDAS</td>
     </tr>
     <tr>
-      <th scope="row">11</th>
-      <td>CCS - R2</td>
+      <th scope="row">CCS - R2</th>
       <td>April</td>
       <td>July</td>
       <td>October</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">12</th>
-      <td>UbiComp - R2</td>
+      <th scope="row">UbiComp - R2</th>
       <td>May</td>
       <td>Unknown</td>
       <td>Unknown</td>
       <td>PrecisionConference</td>
     </tr>
     <tr>
-      <th scope="row">13</th>
-      <td>SECON</td>
+      <th scope="row">SECON</th>
       <td>May</td>
       <td>July</td>
       <td>September</td>
       <td>Unknown</td>
     </tr>
     <tr>
-      <th scope="row">14</th>
-      <td>ICNP</td>
+      <th scope="row">ICNP</th>
       <td>May</td>
       <td>July</td>
       <td>October</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">15</th>
-      <td>NSDI - Spring</td>
+      <th scope="row">NSDI - Spring</th>
       <td>May</td>
       <td>July</td>
       <td>April</td>
       <td>Unknown</td>
     </tr>
     <tr>
-      <th scope="row">16</th>
-      <td>CNS</td>
+      <th scope="row">CNS</th>
       <td>June</td>
       <td>August</td>
       <td>September</td>
       <td>EDAS</td>
     </tr>
     <tr>
-      <th scope="row">17</th>
-      <td>INFOCOM</td>
+      <th scope="row">INFOCOM</th>
       <td>July</td>
       <td>December</td>
       <td>May</td>
       <td>EDAS</td>
     </tr>
     <tr>
-      <th scope="row">18</th>
-      <td>MobiCom - Summer</td>
+      <th scope="row">MobiCom - Summer</th>
       <td>August</td>
       <td>November</td>
       <td>October</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">19</th>
-      <td>S&P - R2</td>
+      <th scope="row">S&P - R2</th>
       <td>August</td>
       <td>October</td>
       <td>May</td>
       <td>Unknown</td>
     </tr>
     <tr>
-      <th scope="row">20</th>
-      <td>NSDI - Fall</td>
+      <th scope="row">NSDI - Fall</th>
       <td>September</td>
       <td>December</td>
       <td>April</td>
       <td>Unknown</td>
     </tr>
     <tr>
-      <th scope="row">21</th>
-      <td>IEEE VR</td>
+      <th scope="row">IEEE VR</th>
       <td>September</td>
       <td>January</td>
       <td>March</td>
       <td>PrecisionConference</td>
     </tr>
     <tr>
-      <th scope="row">22</th>
-      <td>PerCom</td>
+      <th scope="row">PerCom</th>
       <td>October</td>
       <td>December</td>
       <td>March</td>
       <td>EasyChair</td>
     </tr>
     <tr>
-      <th scope="row">23</th>
-      <td>IPSN</td>
+      <th scope="row">IPSN</th>
       <td>October</td>
       <td>January</td>
       <td>May</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">24</th>
-      <td>UbiComp - R3</td>
+      <th scope="row">UbiComp - R3</th>
       <td>November</td>
       <td>Unknown</td>
       <td>Unknown</td>
       <td>PrecisionConference</td>
     </tr>
     <tr>
-      <th scope="row">25</th>
-      <td>SenSys</td>
+      <th scope="row">SenSys</th>
       <td>November</td>
       <td>January</td>
       <td>May</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">26</th>
-      <td>MobiSys</td>
+      <th scope="row">MobiSys</th>
       <td>November</td>
       <td>March</td>
       <td>June</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">27</th>
-      <td>WiSec - R1</td>
+      <th scope="row">WiSec - R1</th>
       <td>November</td>
       <td>January</td>
       <td>June</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">28</th>
-      <td>S&P - R3</td>
+      <th scope="row">S&P - R3</th>
       <td>December</td>
       <td>March</td>
       <td>May</td>
