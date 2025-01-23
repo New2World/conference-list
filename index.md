@@ -175,13 +175,13 @@ title: Conference List for Future Reference
       <td>March</td>
       <td>EasyChair</td>
     </tr>
-    <tr>
+<!--     <tr>
       <th scope="row">IPSN</th>
       <td>October</td>
       <td>January</td>
       <td>May</td>
       <td>HotCRP</td>
-    </tr>
+    </tr> -->
     <tr>
       <th scope="row">UbiComp - R3</th>
       <td>November</td>
