@@ -29,14 +29,21 @@ title: Conference List for Future Reference
       <td>EasyChair</td>
     </tr>
     <tr>
-      <th scope="row">CCS - R1</th>
+      <th scope="row">CCS - C1</th>
       <td>January</td>
       <td>April</td>
       <td>October</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">UbiComp - R1</th>
+      <th scope="row">USENIX - C2</th>
+      <td>January</td>
+      <td>April/June</td>
+      <td>August</td>
+      <td>HotCRP</td>
+    </tr>
+    <tr>
+      <th scope="row">UbiComp - C1</th>
       <td>February</td>
       <td>Unknown</td>
       <td>Unknown</td>
@@ -64,7 +71,7 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">WiSec - R2</th>
+      <th scope="row">WiSec - C2</th>
       <td>March</td>
       <td>April</td>
       <td>June</td>
@@ -78,7 +85,7 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">S&P - R1</th>
+      <th scope="row">S&P - C1</th>
       <td>March</td>
       <td>July</td>
       <td>May</td>
@@ -92,14 +99,21 @@ title: Conference List for Future Reference
       <td>EDAS</td>
     </tr>
     <tr>
-      <th scope="row">CCS - R2</th>
+      <th scope="row">CCS - C2</th>
       <td>April</td>
       <td>July</td>
       <td>October</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">UbiComp - R2</th>
+      <th scope="row">NDSS - Summer</th>
+      <td>April</td>
+      <td>June/August</td>
+      <td>February</td>
+      <td>HotCRP</td>
+    </tr>
+    <tr>
+      <th scope="row">UbiComp - C2</th>
       <td>May</td>
       <td>Unknown</td>
       <td>Unknown</td>
@@ -141,6 +155,13 @@ title: Conference List for Future Reference
       <td>EDAS</td>
     </tr>
     <tr>
+      <th scope="row">NDSS - Fall</th>
+      <td>July</td>
+      <td>September/November</td>
+      <td>February</td>
+      <td>HotCRP</td>
+    </tr>
+    <tr>
       <th scope="row">MobiCom - Summer</th>
       <td>August</td>
       <td>November</td>
@@ -148,7 +169,7 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">S&P - R2</th>
+      <th scope="row">S&P - C2</th>
       <td>August</td>
       <td>October</td>
       <td>May</td>
@@ -160,6 +181,13 @@ title: Conference List for Future Reference
       <td>December</td>
       <td>April</td>
       <td>Unknown</td>
+    </tr>
+    <tr>
+      <th scope="row">USENIX - C1</th>
+      <td>September</td>
+      <td>December/January</td>
+      <td>August</td>
+      <td>HotCRP</td>
     </tr>
     <tr>
       <th scope="row">IEEE VR</th>
@@ -183,7 +211,7 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr> -->
     <tr>
-      <th scope="row">UbiComp - R3</th>
+      <th scope="row">UbiComp - C3</th>
       <td>November</td>
       <td>Unknown</td>
       <td>Unknown</td>
@@ -204,14 +232,14 @@ title: Conference List for Future Reference
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">WiSec - R1</th>
+      <th scope="row">WiSec - C1</th>
       <td>November</td>
       <td>January</td>
       <td>June</td>
       <td>HotCRP</td>
     </tr>
     <tr>
-      <th scope="row">S&P - R3</th>
+      <th scope="row">S&P - C3</th>
       <td>December</td>
       <td>March</td>
       <td>May</td>
