@@ -124,7 +124,7 @@ title: Conference List for Future Reference
       <td>May</td>
       <td>July</td>
       <td>September</td>
-      <td>Unknown</td>
+      <td>EDAS</td>
     </tr>
     <tr>
       <th scope="row">ICNP</th>
@@ -138,7 +138,7 @@ title: Conference List for Future Reference
       <td>May</td>
       <td>July</td>
       <td>April</td>
-      <td>Unknown</td>
+      <td>HotCRP</td>
     </tr>
     <tr>
       <th scope="row">CNS</th>
@@ -180,7 +180,7 @@ title: Conference List for Future Reference
       <td>September</td>
       <td>December</td>
       <td>April</td>
-      <td>Unknown</td>
+      <td>HotCRP</td>
     </tr>
     <tr>
       <th scope="row">USENIX - C1</th>
